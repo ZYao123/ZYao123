@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZYao123&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZYao123)](https://github.com/ZYao123)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZYao123&layout=compact)](https://github.com/ZYao123)
 
 
 <!--
